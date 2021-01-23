@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+Sara here, I love pizza and my dog. Yesterday I had tacos.
